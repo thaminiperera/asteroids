@@ -282,6 +282,7 @@ function animate() {
     if (circleTriangleCollision(asteroid, player.getVertices())) {
       console.log("GAME OVER!");
       window.cancelAnimationFrame(animateID);
+      clearInterval(intervalId);
     }
 
     //garbage collection for asteroids
