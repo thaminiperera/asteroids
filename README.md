@@ -4,7 +4,8 @@ Demo : https://tdp-asteroids.netlify.app/
 
 Instructions to Play :
 Use the Keys;
-W - Move Up
-A - Rotate Left
-D - Rotate Right
+
+W - Move Up, 
+A - Rotate Left, 
+D - Rotate Right, 
 Space - Shoot.
